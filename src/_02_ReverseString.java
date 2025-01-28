@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+//Задача 2: Обратен низ
+//Напиши метод на Java, който приема низ и го обръща. Методът трябва да върне обръщания низ.
+
 public class _02_ReverseString {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
