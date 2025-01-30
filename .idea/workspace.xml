@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5929cf5-39b9-4ddc-b038-f82443a82af5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c5929cf5-39b9-4ddc-b038-f82443a82af5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +61,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._06_Anagrams">
+  <component name="RunManager" selected="Application._07_TwoSum">
     <configuration name="_03_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_03_Palindrome" />
       <module name="Coding Question" />
@@ -92,8 +90,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_07_TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_07_TwoSum" />
+      <module name="Coding Question" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._07_TwoSum" />
         <item itemvalue="Application._06_Anagrams" />
         <item itemvalue="Application._05_FindSecondLargestValue" />
         <item itemvalue="Application._04_DuplicatesInArray" />
@@ -118,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1738250296383</updated>
       <workItem from="1738250297987" duration="2136000" />
-      <workItem from="1738252589201" duration="2872000" />
+      <workItem from="1738252589201" duration="3336000" />
     </task>
     <servers />
   </component>
