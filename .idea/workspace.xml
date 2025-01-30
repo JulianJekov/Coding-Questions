@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5929cf5-39b9-4ddc-b038-f82443a82af5" name="Changes" comment="" />
+    <list default="true" id="c5929cf5-39b9-4ddc-b038-f82443a82af5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_06_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Anagrams.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +36,9 @@
     &quot;accountId&quot;: &quot;2423c626-2834-41d1-8b13-82e81dc50b50&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -49,26 +56,22 @@
     "Application._04_DuplicatesInArray.executor": "Run",
     "Application._05_FindSecondLargestValue.executor": "Run",
     "Application._06_Anagrams.executor": "Run",
+    "Application._07_TwoSum.executor": "Run",
+    "Application._08_AnagramWithUnicode.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "extract.method.default.visibility": "private",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "settings.editor.selected.configurable": "advanced.settings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._07_TwoSum">
-    <configuration name="_03_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_03_Palindrome" />
-      <module name="Coding Question" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application._08_AnagramWithUnicode">
     <configuration name="_04_DuplicatesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_04_DuplicatesInArray" />
       <module name="Coding Question" />
@@ -97,13 +100,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_08_AnagramWithUnicode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_08_AnagramWithUnicode" />
+      <module name="Coding Question" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._08_AnagramWithUnicode" />
         <item itemvalue="Application._07_TwoSum" />
         <item itemvalue="Application._06_Anagrams" />
         <item itemvalue="Application._05_FindSecondLargestValue" />
         <item itemvalue="Application._04_DuplicatesInArray" />
-        <item itemvalue="Application._03_Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +134,8 @@
       <option name="presentableId" value="Default" />
       <updated>1738250296383</updated>
       <workItem from="1738250297987" duration="2136000" />
-      <workItem from="1738252589201" duration="3336000" />
+      <workItem from="1738252589201" duration="7475000" />
+      <workItem from="1738266890121" duration="693000" />
     </task>
     <servers />
   </component>

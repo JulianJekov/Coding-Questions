@@ -19,7 +19,7 @@ public class _06_Anagrams {
 
     public static boolean isAnagram(String firstWord, String secondWord) {
 
-        if (firstWord.length() == secondWord.length()) {
+        if (firstWord.length() != secondWord.length()) {
             return false;
         }
 
