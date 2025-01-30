@@ -5,7 +5,7 @@ import java.util.Set;
 //Напиши метод, който приема масив от цели числа и проверява дали има повтарящи се елементи.
 //Методът трябва да върне true, ако има дубликати, и false, ако няма.
 
-public class DuplicatesInArray {
+public class _04_DuplicatesInArray {
     public static void main(String[] args) {
         int[] noDuplicates = {1, 2, 3, 4, 5, 6, 7, 8, 9}; //should return false
         int[] duplicates = {1, 2, 3, 4, 5, 6, 7, 8, 9, 9}; //should return true
