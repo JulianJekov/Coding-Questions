@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class BalancedParentheses {
+public class _09_BalancedParentheses {
     public static void main(String[] args) {
         String input = "Hello (world)";
         System.out.println(isBalanced(input));
