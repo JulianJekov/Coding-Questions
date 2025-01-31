@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5929cf5-39b9-4ddc-b038-f82443a82af5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_06_Anagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_06_Anagrams.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +35,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -49,6 +47,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BalancedParentheses.executor": "Run",
     "Application.DuplicatesInArray.executor": "Run",
     "Application._01_FizzBuzz.executor": "Run",
     "Application._02_ReverseString.executor": "Run",
@@ -71,9 +70,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application._08_AnagramWithUnicode">
-    <configuration name="_04_DuplicatesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_04_DuplicatesInArray" />
+  <component name="RunManager" selected="Application.BalancedParentheses">
+    <configuration name="BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BalancedParentheses" />
       <module name="Coding Question" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BalancedParentheses" />
         <item itemvalue="Application._08_AnagramWithUnicode" />
         <item itemvalue="Application._07_TwoSum" />
         <item itemvalue="Application._06_Anagrams" />
         <item itemvalue="Application._05_FindSecondLargestValue" />
-        <item itemvalue="Application._04_DuplicatesInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +134,8 @@
       <updated>1738250296383</updated>
       <workItem from="1738250297987" duration="2136000" />
       <workItem from="1738252589201" duration="7475000" />
-      <workItem from="1738266890121" duration="693000" />
+      <workItem from="1738266890121" duration="763000" />
+      <workItem from="1738351269290" duration="2694000" />
     </task>
     <servers />
   </component>
