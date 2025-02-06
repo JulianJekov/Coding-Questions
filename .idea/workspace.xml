@@ -35,7 +35,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -47,8 +47,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.BalancedParentheses.executor": "Run",
     "Application.DuplicatesInArray.executor": "Run",
+    "Application.LongestCommonSubsequence.executor": "Run",
+    "Application.LongestOrderedSubstring.executor": "Run",
     "Application._01_FizzBuzz.executor": "Run",
     "Application._02_ReverseString.executor": "Run",
     "Application._03_Palindrome.executor": "Run",
@@ -57,6 +58,8 @@
     "Application._06_Anagrams.executor": "Run",
     "Application._07_TwoSum.executor": "Run",
     "Application._08_AnagramWithUnicode.executor": "Run",
+    "Application._11_ReversedSinglyLinkedList.executor": "Run",
+    "Application._12_QuickSort.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "extract.method.default.visibility": "private",
@@ -70,30 +73,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BalancedParentheses">
-    <configuration name="BalancedParentheses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BalancedParentheses" />
-      <module name="Coding Question" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_05_FindSecondLargestValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_05_FindSecondLargestValue" />
-      <module name="Coding Question" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_06_Anagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_06_Anagrams" />
-      <module name="Coding Question" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_07_TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_07_TwoSum" />
+  <component name="RunManager" selected="Application.LongestCommonSubsequence">
+    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LongestCommonSubsequence" />
       <module name="Coding Question" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,13 +88,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_10_LongestOrderedSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_10_LongestOrderedSubstring" />
+      <module name="Coding Question" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_11_ReversedSinglyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_11_ReversedSinglyLinkedList" />
+      <module name="Coding Question" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_12_QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_12_QuickSort" />
+      <module name="Coding Question" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BalancedParentheses" />
+        <item itemvalue="Application.LongestCommonSubsequence" />
+        <item itemvalue="Application._12_QuickSort" />
+        <item itemvalue="Application._11_ReversedSinglyLinkedList" />
+        <item itemvalue="Application._10_LongestOrderedSubstring" />
         <item itemvalue="Application._08_AnagramWithUnicode" />
-        <item itemvalue="Application._07_TwoSum" />
-        <item itemvalue="Application._06_Anagrams" />
-        <item itemvalue="Application._05_FindSecondLargestValue" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +138,13 @@
       <workItem from="1738250297987" duration="2136000" />
       <workItem from="1738252589201" duration="7475000" />
       <workItem from="1738266890121" duration="763000" />
-      <workItem from="1738351269290" duration="2694000" />
+      <workItem from="1738351269290" duration="3055000" />
+      <workItem from="1738405223221" duration="7148000" />
+      <workItem from="1738419894387" duration="808000" />
+      <workItem from="1738436610479" duration="1182000" />
+      <workItem from="1738511766960" duration="4217000" />
+      <workItem from="1738518020124" duration="16000" />
+      <workItem from="1738840994389" duration="6736000" />
     </task>
     <servers />
   </component>
