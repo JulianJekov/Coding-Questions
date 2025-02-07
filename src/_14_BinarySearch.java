@@ -1,4 +1,4 @@
-public class BinarySearch{
+public class _14_BinarySearch {
 
     public static void main(String[] args) {
 
