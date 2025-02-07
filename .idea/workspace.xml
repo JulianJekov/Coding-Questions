@@ -60,6 +60,7 @@
     "Application._08_AnagramWithUnicode.executor": "Run",
     "Application._11_ReversedSinglyLinkedList.executor": "Run",
     "Application._12_QuickSort.executor": "Run",
+    "Application._15_XOR.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "extract.method.default.visibility": "private",
@@ -73,16 +74,9 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LongestCommonSubsequence">
+  <component name="RunManager" selected="Application._15_XOR">
     <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="LongestCommonSubsequence" />
-      <module name="Coding Question" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="_08_AnagramWithUnicode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="_08_AnagramWithUnicode" />
       <module name="Coding Question" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -109,13 +103,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="_15_XOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_15_XOR" />
+      <module name="Coding Question" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._15_XOR" />
         <item itemvalue="Application.LongestCommonSubsequence" />
         <item itemvalue="Application._12_QuickSort" />
         <item itemvalue="Application._11_ReversedSinglyLinkedList" />
         <item itemvalue="Application._10_LongestOrderedSubstring" />
-        <item itemvalue="Application._08_AnagramWithUnicode" />
       </list>
     </recent_temporary>
   </component>
